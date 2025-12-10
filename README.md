@@ -28,7 +28,7 @@ The following visualizations were created using Matplotlib and Seaborn:
 ### 1. Scatter Plot
 * Plotted SepalLengthCm vs SepalWidthCm and PetalLengthCm vs PetalWidthCm.
 * Colored by Species using Seaborn’s `scatterplot`.
-* Purpose: Visualize the relationship between sepal length/width across species.
+* Purpose: Visualize the relationship between sepal and petal length/width across species.
 
 ### 2. Histograms
 * Created histograms for all numerical features using `df.hist()`.
@@ -42,7 +42,7 @@ The following visualizations were created using Matplotlib and Seaborn:
 ##  Key Findings
 
 * The dataset loads correctly with no missing values (as shown in `df.info()`).
-* Scatter plot shows clear separation of species based on sepal measurements.
+* Scatter plot shows clear separation of species based on sepal and petal measurements.
 * Histograms reveal the spread and distribution of each feature.
 * Boxplots show slight variations and potential outliers in sepal width.
 
