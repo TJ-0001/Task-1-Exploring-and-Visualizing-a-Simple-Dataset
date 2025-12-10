@@ -47,6 +47,6 @@ The following visualizations were created using Matplotlib and Seaborn:
 * Boxplots show slight variations and potential outliers in sepal width.
 
 ## Files Included
-- **Iris_Analysis_Notebook.ipynb** — Jupyter Notebook containing all code, visualizations, and outputs.
+- **Task-1-Exploring-and-Visualizing-a-Simple-Dataset.ipynb** — Jupyter Notebook containing all code, visualizations, and outputs.
 - **Iris.csv** — Dataset used for analysis and visual exploration.
 
