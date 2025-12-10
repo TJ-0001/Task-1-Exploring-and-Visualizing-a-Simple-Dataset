@@ -46,8 +46,7 @@ The following visualizations were created using Matplotlib and Seaborn:
 * Histograms reveal the spread and distribution of each feature.
 * Boxplots show slight variations and potential outliers in sepal width.
 
-## Files
-```
-Iris_Analysis_Notebook.ipynb – Contains all code
-Iris.csv – Dataset used
-```
+## Files Included
+- **Iris_Analysis_Notebook.ipynb** — Jupyter Notebook containing all code, visualizations, and outputs.
+- **Iris.csv** — Dataset used for analysis and visual exploration.
+
